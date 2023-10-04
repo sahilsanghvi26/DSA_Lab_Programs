@@ -1,8 +1,9 @@
-/* Name=Harsh Chaudhari
-   Roll No=07
-   SE-IT (sem 3)
-   2023-24
-     */
+/*
+name = Sahil Sanghvi
+Roll No. = 51
+SE-IT sem 3
+2023-24
+*/
 
 #include <stdio.h>
 
