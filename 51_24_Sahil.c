@@ -1,9 +1,10 @@
 /*
-Name = Harsh Chaudhari
-Roll No. = 07
-SE-IT (sem 3)
+name = Sahil Sanghvi
+Roll No. = 51
+SE-IT sem 3
 2023-24
 */
+
 //Merge Sort
 #include <stdio.h>
 void Merge(int arr[],int low,int mid,int high)
