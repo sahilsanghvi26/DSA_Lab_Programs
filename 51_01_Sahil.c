@@ -32,6 +32,7 @@ void main()
             
             printf("True");
             printf("\nThe number %d is a part of fibonacci series and it is %dth in the series", num, i);
+            printf("You found corrrect");
             break;
         }
         if(num<fib(i))
